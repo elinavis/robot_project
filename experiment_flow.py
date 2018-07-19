@@ -1,7 +1,5 @@
 from nao_ros import *
 from pygame import mixer
-import pyaudio
-
 
 class ExpFlow():
 
